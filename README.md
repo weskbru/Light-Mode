@@ -13,3 +13,4 @@ Projeto referente ao curso "Manipulando o DOM" que fiz pela [Digital Innovation 
 ## Exemplo
 
 ![Exercício Dark Mode e Light Mode](./dark-mode-exercicio.gif)
+
